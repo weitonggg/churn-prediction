@@ -3,4 +3,5 @@
 Predict probability of customer churning using various models
 
 ### Files:
-* logistic regression_preprocess.py: data preprocessing and fitting of logistic regression model
+* preprocess.py: data preprocessing (includes fill missing values, encoding, one-hot encoding, train-test split)
+* logistic regression.py: fitting of logistic regression model
