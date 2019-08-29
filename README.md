@@ -2,7 +2,7 @@
 
 Predict probability of customer churning using various models
 
-### Files' descriptions:
+### Files:
 * EDA.ipynb: Jupyter notebook on exploratory data analysis
 * preprocess.py: data preprocessing (includes filling in of missing values, encoding, one-hot encoding, train-test split)
 * logistic regression_decision tree.py: logistic regression and decision tree model
